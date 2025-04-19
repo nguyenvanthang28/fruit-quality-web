@@ -1,0 +1,31 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+fruit_env/
+venv/
+
+# === Node.js ===
+/node_modules
+package-lock.json
+
+# === Firebase ===
+backend/serviceAccountKey.json
+
+# === Models ===
+../model/
+*.keras
+
+# === OS & IDE ===
+.DS_Store
+.vscode/
+.idea/
+
+# === Environment ===
+.env
+.env.local
+
+# === Build/Test ===
+/build
+/coverage

@@ -1,0 +1,2 @@
+from firebase_config import initialize_firebase
+initialize_firebase()
